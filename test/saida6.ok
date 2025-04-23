@@ -1,0 +1,10 @@
+VCD info: dumpfile saida.vcd opened for output.
+clk=x, reset=x, codigo=xxx, entrada=xxxxxxxx, saida=xxxxxxxx
+clk=0, reset=1, codigo=000, entrada=00000001, saida=00000000
+clk=1, reset=1, codigo=000, entrada=00000001, saida=00000000
+clk=0, reset=0, codigo=010, entrada=00000001, saida=00000000
+clk=1, reset=0, codigo=010, entrada=00000001, saida=00000000
+clk=0, reset=0, codigo=010, entrada=00001111, saida=00000000
+clk=1, reset=0, codigo=010, entrada=00001111, saida=00000000
+clk=0, reset=0, codigo=010, entrada=00000101, saida=00000000
+clk=1, reset=0, codigo=010, entrada=00000101, saida=00000000
